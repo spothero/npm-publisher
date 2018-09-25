@@ -18,8 +18,8 @@
         "npm": ">=6.1.0"
     },
     "devDependencies": {
-        "@spothero/commitlint-config": "1.1.1",
-        "@spothero/eslint-config": "1.3.3"
+        "@spothero/commitlint-config": "1.2.0",
+        "@spothero/eslint-config": "1.4.0"
     },
     "dependencies": {
         "@slack/client": "4.6.0",
