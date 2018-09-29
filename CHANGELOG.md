@@ -1,3 +1,10 @@
+# 2.1.0 - 09/29/2018
+## New Features
+* [[237b8a0](https://github.com/spothero/npm-publisher/commit/237b8a0)] - Added ability to push publish notifications to a HipChat room (Matt Przybylski)
+
+## Dependency Updates
+* [[916b551](https://github.com/spothero/npm-publisher/commit/916b551)] - Updated dependencies to latest (Matt Przybylski)
+
 # 2.0.0 - 09/24/2018
 ## Breaking Changes
 * [[a405663](https://github.com/spothero/npm-publisher/commit/a405663)] - Added use of rc files for configuration of secret tokens (Matt Przybylski)
