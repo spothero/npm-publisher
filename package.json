@@ -10,15 +10,19 @@
         "npm-release": "./bin/npm-release.js"
     },
     "scripts": {
-        "commitmsg": "commitlint -E GIT_PARAMS",
         "release": "node ./bin/npm-release.js -- public"
+    },
+    "husky": {
+      "hooks": {
+        "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+      }
     },
     "engines": {
         "node": ">=10.3.0",
         "npm": ">=6.1.0"
     },
     "devDependencies": {
-        "@spothero/commitlint-config": "1.2.0",
+        "@spothero/commitlint-config": "2.0.0",
         "@spothero/eslint-config": "1.4.2"
     },
     "dependencies": {
