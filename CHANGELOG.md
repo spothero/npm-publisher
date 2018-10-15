@@ -1,3 +1,8 @@
+# 2.1.1 - 10/15/2018
+
+## Miscellaneous Updates
+* [[b617a32](https://github.com/spothero/npm-publisher/commit/b617a32)] - `chore:` Upgrade to latest commitlint config and husky script format (Matt Przybylski)
+
 # 2.1.0 - 09/29/2018
 ## New Features
 * [[237b8a0](https://github.com/spothero/npm-publisher/commit/237b8a0)] - Added ability to push publish notifications to a HipChat room (Matt Przybylski)

@@ -13,9 +13,9 @@
         "release": "node ./bin/npm-release.js -- public"
     },
     "husky": {
-      "hooks": {
-        "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
-      }
+        "hooks": {
+            "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+        }
     },
     "engines": {
         "node": ">=10.3.0",
