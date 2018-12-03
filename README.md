@@ -54,10 +54,12 @@ Additional features can be unlocked by providing a `.npmpublisherrc` file. This 
     ```
     /.npmpublisherrc
     ```
-1. In your home directory.
+1. In your home directory (preferred).
     ```
     $HOME/.npmpublisherrc
     ```
+
+<span style="color: #ff0000;">**NOTE: Because this file will usually contain sensitive data, it is encouraged to keep it out of public repositories and in your home directory.**</span>
 
 The rc file should contain a similar configuration to the following:
 ```
