@@ -1,3 +1,10 @@
+# 2.1.2 - 01/08/2019
+
+## Miscellaneous Updates
+* [[940828f](https://github.com/spothero/npm-publisher/commit/940828f)] - `chore:` Updated to latest deps (Matt Przybylski)
+* [[95f59ac](https://github.com/spothero/npm-publisher/commit/95f59ac)] - `chore:` License under Apache 2.0 instead of MIT (Matt Przybylski)
+* [[86de8d2](https://github.com/spothero/npm-publisher/commit/86de8d2)] - `docs:` Add note about properly storing .npmpublisherrc file in preferred home directory (Matt Przybylski)
+
 # 2.1.1 - 10/15/2018
 
 ## Miscellaneous Updates
