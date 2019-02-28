@@ -1,3 +1,8 @@
+# 2.1.3 - 02/28/2019
+## Miscellaneous Updates
+* [[37bbb5f](https://github.com/spothero/npm-publisher/commit/37bbb5f)] - `chore:` Update deps to latest (Matt Przybylski)
+* [[a629f25](https://github.com/spothero/npm-publisher/commit/a629f25)] - 2.1.4 (Matt Przybylski)
+
 # 2.1.2 - 01/08/2019
 
 ## Miscellaneous Updates
