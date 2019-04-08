@@ -1,3 +1,7 @@
+# 2.2.0 - 04/08/2019
+## Dependency Updates
+* [[5bfcee9](https://github.com/spothero/npm-publisher/commit/5bfcee9)] - Dependencies to latest (Matt Przybylski)
+
 # 2.1.4 - 03/11/2019
 
 ## Miscellaneous Updates
