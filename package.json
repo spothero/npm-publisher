@@ -22,13 +22,13 @@
         "npm": ">=6.1.0"
     },
     "devDependencies": {
-        "@spothero/commitlint-config": "2.0.3",
-        "@spothero/eslint-config": "1.6.0"
+        "@spothero/commitlint-config": "2.0.4",
+        "@spothero/eslint-config": "1.6.1"
     },
     "dependencies": {
-        "@slack/web-api": "5.0.0",
+        "@slack/web-api": "5.0.1",
         "dateformat": "3.0.3",
-        "github-api": "3.0.0",
+        "github-api": "3.2.0",
         "hipchatter": "1.0.0",
         "lodash": "4.17.11",
         "minimist": "1.2.0",
