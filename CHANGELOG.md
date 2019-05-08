@@ -1,3 +1,8 @@
+# 2.2.1 - 05/08/2019
+
+## Miscellaneous Updates
+* [[d28917d](https://github.com/spothero/npm-publisher/commit/d28917d)] - `chore:` Update dependencies to latest to fix commitlint issue (Matt Przybylski)
+
 # 2.2.0 - 04/08/2019
 ## Dependency Updates
 * [[5bfcee9](https://github.com/spothero/npm-publisher/commit/5bfcee9)] - Dependencies to latest (Matt Przybylski)
