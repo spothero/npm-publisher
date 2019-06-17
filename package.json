@@ -23,17 +23,17 @@
     },
     "devDependencies": {
         "@spothero/commitlint-config": "2.0.4",
-        "@spothero/eslint-config": "1.6.1"
+        "@spothero/eslint-config": "1.7.0"
     },
     "dependencies": {
         "@slack/web-api": "5.0.1",
         "dateformat": "3.0.3",
-        "github-api": "3.2.0",
+        "github-api": "3.2.2",
         "hipchatter": "1.0.0",
         "lodash": "4.17.11",
         "minimist": "1.2.0",
         "rc": "1.2.8",
-        "semver": "6.0.0",
+        "semver": "6.1.1",
         "shelljs": "0.8.3"
     }
 }
