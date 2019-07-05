@@ -1,3 +1,8 @@
+# 2.3.1 - 07/05/2019
+
+## Miscellaneous Updates
+* [[99e5561](https://github.com/spothero/npm-publisher/commit/99e5561)] - `chore:` Update to latest dependencies (Matt Przybylski)
+
 # 2.3.0 - 06/17/2019
 ## Dependency Updates
 * [[0450be4](https://github.com/spothero/npm-publisher/commit/0450be4)] - Upgrade dependencies to get Axios updates, add Codeowners file (boiarqin)
