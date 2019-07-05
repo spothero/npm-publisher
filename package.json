@@ -22,8 +22,8 @@
         "npm": ">=6.1.0"
     },
     "devDependencies": {
-        "@spothero/commitlint-config": "2.0.4",
-        "@spothero/eslint-config": "1.7.0"
+        "@spothero/commitlint-config": "2.1.1",
+        "@spothero/eslint-config": "1.8.2"
     },
     "dependencies": {
         "@slack/web-api": "5.0.1",
@@ -33,7 +33,7 @@
         "lodash": "4.17.11",
         "minimist": "1.2.0",
         "rc": "1.2.8",
-        "semver": "6.1.1",
+        "semver": "6.2.0",
         "shelljs": "0.8.3"
     }
 }
