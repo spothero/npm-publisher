@@ -22,7 +22,7 @@
         "npm": ">=6.1.0"
     },
     "devDependencies": {
-        "@spothero/commitlint-config": "2.1.1",
+        "@spothero/commitlint-config": "2.1.2",
         "@spothero/eslint-config": "1.8.4"
     },
     "dependencies": {
