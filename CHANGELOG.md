@@ -1,3 +1,8 @@
+# 2.3.2 - 09/03/2019
+
+## Miscellaneous Updates
+* [[42c387e](https://github.com/spothero/npm-publisher/commit/42c387e)] - `chore:` Update to latest dependencies to fix security vulnerabilities (Matt Przybylski)
+
 # 2.3.1 - 07/05/2019
 
 ## Miscellaneous Updates
