@@ -29,7 +29,6 @@
     "@slack/web-api": "5.1.0",
     "dateformat": "3.0.3",
     "github-api": "3.3.0",
-    "hipchatter": "1.0.0",
     "lodash": "4.17.15",
     "minimist": "1.2.0",
     "rc": "1.2.8",

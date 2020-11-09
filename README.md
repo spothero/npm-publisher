@@ -77,12 +77,6 @@ The rc file should contain a similar configuration to the following:
         "github": {
             "accessToken": "..."
         },
-        "hipchat": {
-            "apiRoot": null,
-            "authToken": "...",
-            "roomToken": "...",
-            "roomName": "..."
-        }
     },
     "default": null
 }
@@ -108,10 +102,6 @@ By setting a `channelId` and providing a `botUserToken`, you can notify a Slack 
 * [Slack Apps](https://api.slack.com/apps)
 * [Creating a Slack bot user](https://api.slack.com/bot-users#creating-bot-user)
 
-## Notify a HipChat room
-By adding an `authToken`, `roomToken`, and `roomName` in the `hipchat` key, you can notify a HipChat room of your publish. You'll need to generate the appropriate tokens and add the "BYO" integration to your room. You can also optionally pass an `apiUrl` if it differs from the default HipChat v2 API url.
-
-* [HipChat tokens](https://developer.atlassian.com/server/hipchat/about-the-hipchat-rest-api/)
 
 ## Prereleases
 You can add a prerelease to your publish command (`alpha`, `beta`, `rc`, etc...). The next appropriate version number will be calculated automatically for you.
