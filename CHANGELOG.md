@@ -1,3 +1,13 @@
+# 2.3.3-beta.0 - 11/11/2020
+
+## Miscellaneous Updates
+* [[e299d03](https://github.com/spothero/npm-publisher/commit/e299d03)] - `test:` Add verbose tags (Boiar Qin)
+* [[0d4f4c1](https://github.com/spothero/npm-publisher/commit/0d4f4c1)] - `test:` Test beta release in concourse (Boiar Qin)
+* [[a799d96](https://github.com/spothero/npm-publisher/commit/a799d96)] - `chore:` Update package lock (Boiar Qin)
+* [[bf76f32](https://github.com/spothero/npm-publisher/commit/bf76f32)] - `chore:` Updated to latest commitlint config (Matt Przybylski)
+* [[9304a33](https://github.com/spothero/npm-publisher/commit/9304a33)] - `fix:` Improper path to main file in package.json (Matt)
+* [[7db0701](https://github.com/spothero/npm-publisher/commit/7db0701)] - `ci:` Update npmignore file (Matt Przybylski)
+
 # 2.3.2 - 09/03/2019
 
 ## Miscellaneous Updates
