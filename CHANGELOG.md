@@ -1,3 +1,10 @@
+# 2.3.3-beta.1 - 11/12/2020
+
+## Miscellaneous Updates
+* [[68e73ab](https://github.com/spothero/npm-publisher/commit/68e73ab)] - `test:` Bump package json version (Boiar Qin)
+* [[027b3a8](https://github.com/spothero/npm-publisher/commit/027b3a8)] - `test:` Separate prerelease from release behavior (Boiar Qin)
+* [[c013399](https://github.com/spothero/npm-publisher/commit/c013399)] - `test:` Don't publish prerelease untracked files to master (Boiar Qin)
+
 # 2.3.2 - 09/03/2019
 
 ## Miscellaneous Updates
