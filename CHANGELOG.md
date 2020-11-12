@@ -1,3 +1,8 @@
+# 2.3.3-beta.3 - 11/12/2020
+
+## Miscellaneous Updates
+* [[cd5dfd8](https://github.com/spothero/npm-publisher/commit/cd5dfd8)] - `test:` Bump package.json (Boiar Qin)
+
 # 2.3.2 - 09/03/2019
 
 ## Miscellaneous Updates
