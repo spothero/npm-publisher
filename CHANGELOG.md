@@ -1,3 +1,8 @@
+# 2.3.3-beta.2 - 11/12/2020
+
+## Miscellaneous Updates
+* [[60ba6ae](https://github.com/spothero/npm-publisher/commit/60ba6ae)] - `test:` Bump version (Boiar Qin)
+
 # 2.3.2 - 09/03/2019
 
 ## Miscellaneous Updates
