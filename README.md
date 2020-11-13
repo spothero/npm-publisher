@@ -129,6 +129,13 @@ And lastly, running the command again, with another `feat` commit type, you publ
 npm run release // yields v1.1.0
 ```
 
+## Branches
+When running a prerelease, you will likely be on a non-master branch. You can run the release command with BRANCH_NAME set:
+```
+NPM_PRERELEASE=beta BRANCH_NAME=my-branch npm run release
+```
+This will commit the changelog and package.json changes back to your branch. If no BRANCH_NAME is specified, npm-publisher will default to the master branch.
+
 ## Pull Requests & Changelog Generation
 Oftentimes when you open a PR and commit more than once, you may end up with a number of commit messages that you want to be generated in the changelog when publishing.
 ![Pull request commits](./screens/pr.png)
