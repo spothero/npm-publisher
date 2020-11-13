@@ -1,3 +1,10 @@
+# 2.3.3-beta.8 - 11/13/2020
+
+## Miscellaneous Updates
+* [[aa6229a](https://github.com/spothero/npm-publisher/commit/aa6229a)] - `test:` And then I bumped again (Boiar Qin)
+* [[9737448](https://github.com/spothero/npm-publisher/commit/9737448)] - `test:` And then I bumped again (Boiar Qin)
+* [[149f423](https://github.com/spothero/npm-publisher/commit/149f423)] - `test:` Default to master (Boiar Qin)
+
 # 2.3.3-beta.5 - 11/13/2020
 
 ## Miscellaneous Updates
