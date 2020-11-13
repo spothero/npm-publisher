@@ -1,3 +1,8 @@
+# 2.3.3-beta.9 - 11/13/2020
+
+## Miscellaneous Updates
+* [[79165c1](https://github.com/spothero/npm-publisher/commit/79165c1)] - `docs:` Update readme (Boiar Qin)
+
 # 2.3.3-beta.8 - 11/13/2020
 
 ## Miscellaneous Updates
