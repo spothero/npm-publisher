@@ -1,3 +1,8 @@
+# 2.3.3-beta.6 - 11/13/2020
+
+## Miscellaneous Updates
+* [[9aba303](https://github.com/spothero/npm-publisher/commit/9aba303)] - `test:` Allow passing of branch name as a param (Boiar Qin)
+
 # 2.3.3-beta.5 - 11/13/2020
 
 ## Miscellaneous Updates
