@@ -1,17 +1,3 @@
-# 2.3.3-beta.8 - 11/13/2020
-
-## Miscellaneous Updates
-* [[aa6229a](https://github.com/spothero/npm-publisher/commit/aa6229a)] - `test:` And then I bumped again (Boiar Qin)
-* [[9737448](https://github.com/spothero/npm-publisher/commit/9737448)] - `test:` And then I bumped again (Boiar Qin)
-* [[149f423](https://github.com/spothero/npm-publisher/commit/149f423)] - `test:` Default to master (Boiar Qin)
-
-# 2.3.3-beta.5 - 11/13/2020
-
-## Miscellaneous Updates
-* [[cd9098c](https://github.com/spothero/npm-publisher/commit/cd9098c)] - `test:` Test different git command (Boiar Qin)
-* [[6aab862](https://github.com/spothero/npm-publisher/commit/6aab862)] - `test:` See if concourse grabs the tmp file (Boiar Qin)
-* [[673c8ee](https://github.com/spothero/npm-publisher/commit/673c8ee)] - `test:` And then I bumped again (Boiar Qin)
-
 # 2.3.2 - 09/03/2019
 
 ## Miscellaneous Updates
