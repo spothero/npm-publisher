@@ -1,6 +1,6 @@
 {
   "name": "@spothero/npm-publisher",
-  "version": "2.3.3-beta.10",
+  "version": "2.4.0",
   "description": "Tooling to aid in development and publishing of modules to an npm registry.",
   "main": "bin/npm-release.js",
   "repository": "https://github.com/spothero/npm-publisher",
