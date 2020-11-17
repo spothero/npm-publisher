@@ -1,3 +1,7 @@
+# 2.4.0 - 11/17/2020
+## New Features
+* [[cf0c53c](https://github.com/spothero/npm-publisher/commit/cf0c53c)] - Add ability to pass in branch names so Concourse can publish/release ([#8](https://github.com/spothero/npm-publisher/pull/8)) (Boiar Qin)
+
 # 2.3.2 - 09/03/2019
 
 ## Miscellaneous Updates
