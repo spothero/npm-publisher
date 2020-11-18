@@ -1,3 +1,8 @@
+# 2.4.1 - 11/18/2020
+
+## Miscellaneous Updates
+* [[c5b482a](https://github.com/spothero/npm-publisher/commit/c5b482a)] - `fix:` Push post-publish files to master from detached head (Boiar Qin)
+
 # 2.4.0 - 11/17/2020
 ## New Features
 * [[cf0c53c](https://github.com/spothero/npm-publisher/commit/cf0c53c)] - Add ability to pass in branch names so Concourse can publish/release ([#8](https://github.com/spothero/npm-publisher/pull/8)) (Boiar Qin)
